@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EndpointList>
+  <Endpoint dataCenter="DAL05">
+    <URL type="public">https://dal05.mq.softlayer.net/v1/</URL>
+    <URL type="private">https://dal05.mq.service.networklayer.com/v1/</URL>
+  </Endpoint>
+</EndpointList>
